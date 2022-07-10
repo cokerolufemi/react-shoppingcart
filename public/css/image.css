@@ -1,0 +1,148 @@
+.cloth{
+	background-color: black;
+	width: 27%;
+	color: white;
+	font-size: 10px;
+	margin-left: 200px;
+	position: absolute;
+	top: 1;
+	right: 10;
+	height: 4vh;
+
+}
+
+img{
+	margin: 25px;
+	max-width: 16rem;
+
+}
+
+.just{
+	justify-content: space-between;
+	display: flex;
+}
+
+.jus{
+	margin-left: 52rem;
+	margin-top: -20px;
+}
+.ju{
+	padding-left: 50px;
+}
+
+.cv{
+	height: 38px;
+	width:  38px;
+	border-radius:70px;
+
+}
+
+.line{
+	width: 20%;
+	color: yellow;
+	border:2px solid;
+	margin-right: 60px;
+}
+
+
+
+.text-center{
+	margin-left: 70px;
+}
+
+
+.com{
+	width:50%;
+	background-color: black;
+	height: 4vh;
+	color: white;
+	border-radius: 0px;
+	margin-left: 100px;
+
+}
+
+.text{
+	font-size: 10px;
+}
+
+.size-section {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.title {
+    margin-left: 40px;
+}
+.shirt-sizes {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.sizes-btn {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+input[type="checkbox"]{
+    margin: 4px 0 0;
+    margin-top: 1px\9;
+    line-height: normal;
+    box-sizing: border-box;
+    padding: 0;
+}
+input {
+    position: absolute;
+    opacity: 0;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-align: start;
+    font: 400 13px Arial;
+}
+input, label {
+    display: inline-block;
+    cursor: pointer;
+}
+label {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+.checkmark {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 35px;
+    height: 35px;
+    font-size: .8em;
+    border-radius: 50%;
+    line-height: 35px;
+    text-align: center;
+    color: #1b1a20;
+    background-color: #ececec;
+    border: 1px solid transparent;
+}
+.star-container {
+    text-align: center;
+}
+.star-rating {
+    margin-top: 15px;
+}
+.star-btn {
+    padding: 4px;
+}
+.star {
+    margin-top: -5px;
+    margin-right: 5px;
+}
+.num {
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid gray;
+}
